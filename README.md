@@ -28,10 +28,10 @@ Setup for Raspberry Pi Zero Series boards to make a USB Rubber Ducky.
     - Make sure that Micro USB cable supports Data transfer.
     - It is connected as `CIRCUITPY`.
     - Means CircuitPython is successfully flashed in the Raspberry Pi Zero Series Board.
-11. Open `CIRCUITPY`.
+16. Open `CIRCUITPY`.
    - There are two important things in it : `lib` folder and `code.py` file.
-11. Download latest Adafruit CircuitPython Bundle from [here](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases)
-12. Extarct the ZIP file.
+17. Download latest Adafruit CircuitPython Bundle from [here](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases)
+18. Extarct the ZIP file.
 13. Go to the `lib` folder in the extracted ZIP file.
-14. Copy `adafruit_hid` folder in the `lib` folder of `CIRCUITPY`.
-15. Done! Now, Raspberry Pi Pico Series Board is ready to use as a USB Rubber Ducky.
+19. Copy `adafruit_hid` folder in the `lib` folder of `CIRCUITPY`.
+20. Done! Now, Raspberry Pi Pico Series Board is ready to use as a USB Rubber Ducky.
