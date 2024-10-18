@@ -6,6 +6,11 @@ Setup for Raspberry Pi Zero Series boards to make a USB Rubber Ducky.
 - Raspberry Pi Zero W
 - Raspberry Pi Zero 2 W
 
+>[!TIP]
+>Use at least `8GB` Micro SD Card.<br>
+>When use new Micro SD Card then format it as FAT32.<br>
+>Make sure that Micro USB cable supports Data transfer.
+
 # Installation and Setup of Circuit Python
 1. Downloadb latest CircuitPython `.DISK.IMG.ZIP` file :
    - Raspberry Pi Zero - [here](https://circuitpython.org/board/raspberrypi_zero/)
@@ -32,6 +37,6 @@ Setup for Raspberry Pi Zero Series boards to make a USB Rubber Ducky.
    - There are two important things in it : `lib` folder and `code.py` file.
 17. Download latest Adafruit CircuitPython Bundle from [here](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases)
 18. Extarct the ZIP file.
-13. Go to the `lib` folder in the extracted ZIP file.
-19. Copy `adafruit_hid` folder in the `lib` folder of `CIRCUITPY`.
-20. Done! Now, Raspberry Pi Pico Series Board is ready to use as a USB Rubber Ducky.
+19. Go to the `lib` folder in the extracted ZIP file.
+20. Copy `adafruit_hid` folder in the `lib` folder of `CIRCUITPY`.
+21. Done! Now, Raspberry Pi Pico Series Board is ready to use as a USB Rubber Ducky.
